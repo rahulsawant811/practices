@@ -25,3 +25,13 @@ console.log(bubbleSort(arr));
 
 // find highest possible number
 console.log(parseInt(bubbleSort(arr).reverse().join('')));
+
+// Swap without using temp variable
+
+/*
+    let a = 5, b = 6
+
+    a = a + b;  // 5 + 6 = 11
+    b = a - b;  // 11 - 6 = 5
+    a = a - b;  // 11 - 5 = 6
+*/
