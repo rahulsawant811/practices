@@ -1,0 +1,7 @@
+What is the difference between HTML5 AppCache and the normal browser cache?
+
+http://researchhubs.com/post/computing/web-application/browser-cache-vs-html5-application-cache.html
+
+AppCache is specifically designed to allow web apps (and web sites) to be made available offline, though the same speed benefits which the normal browser cache provides, when the user is online, are also provided by AppCache.
+
+The key difference with the browser cache is that you can specify all the assets the browser should cache in a manifest file (conceivably your entire site) whereas the browser cache will only store the pages (and associated assets) you have actually visited.

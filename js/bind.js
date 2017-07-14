@@ -6,6 +6,6 @@ let addTo = function(a,b,c){
 
 // console.log(addTo.bind(obj, 1, 2, 3));
 
-let bound = addTo.bind(obj, 1, 2, 3)
+let bound = addTo.bind(obj)
 console.dir(bound);
-console.dir(bound());
+console.dir(bound(1,2,3));
