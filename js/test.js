@@ -46,6 +46,8 @@ if(a === b){
     console.log('Fail');
 }
 
+// array.splice(index, howmany, item1, ....., itemX)
+
 // Add element in between
 var arr1 = [1,2,3];
 arr1.splice(2, 0, 5);
