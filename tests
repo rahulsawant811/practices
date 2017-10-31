@@ -17,3 +17,11 @@
 my-oauth-tests
 
 {"web":{"client_id":"527943347035-b3s0e6dm0cgfsoiubbl2iip3cmbcvs2g.apps.googleusercontent.com","project_id":"my-oauth-tests-184608","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://accounts.google.com/o/oauth2/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"rQ71gMncKp9g46Nzs04amXLt","redirect_uris":["http://localhost:3000/tester"],"javascript_origins":["http://localhost:3000"]}}
+
+
+Client ID	
+527943347035-b3s0e6dm0cgfsoiubbl2iip3cmbcvs2g.apps.googleusercontent.com
+Client secret	
+rQ71gMncKp9g46Nzs04amXLt
+Creation date	
+31 Oct 2017, 13:57:18
